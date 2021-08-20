@@ -10,4 +10,4 @@ A record of [Hendrix College](https://www.hendrix.edu/) Computer Science student
 
 # Want to be listed?
 
-Submit a pull request with your information!
+[Fork the repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo) and [submit a pull request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) with your information!
